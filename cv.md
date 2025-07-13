@@ -9,18 +9,18 @@
 - 2015-2019: Eurasian Humanities Institute / Bachelor of Translation Studies
 - 2011-2015: East Kazakhstan College of Humanities / Certified Primary School English Teacher
 
-## English
-
-- Level: C1 Advanced _(MTELP Certificate)_
-- 2024 - present: English Teacher at Skyeng
-- 2016: Work & Travel Participant (Ocean City, MD)
-- 2015 - 2024: Private English Tutor
-- 2014: Student at LADO International Institute (Arlington, VA)
-
 ## Code Examples
 
 - [How to Learn](https://github.com/ibragimoff-kz/how-to-learn) (HTML, CSS, BEM)
 - [Russian Travel](https://github.com/ibragimoff-kz/russian-travel) (HTML, CSS, BEM, Adaptive Layout)
+
+## English
+
+- Level: C1 Advanced (MTELP Certificate)
+- 2024 - present: English Teacher at Skyeng
+- 2016: Work & Travel Participant (Ocean City, MD)
+- 2015 - 2024: Private English Tutor
+- 2014: Student at LADO International Institute (Arlington, VA)
 
 ## CONTACT ME:
 
