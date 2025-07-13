@@ -2,6 +2,10 @@
 
 > Web Developer
 
+- E-mail: aslan.ibragimov77@gmail.com
+- Telegram: [@ibragimov_esl](https://t.me/ibragimov_esl)
+- Almaty, Kazakhstan
+
 ## About me
 
 I’m a former English teacher with 10+ years of experience working with adult learners. My background in education has equipped me with strong communication skills and the ability to explain complex topics clearly.
@@ -29,8 +33,3 @@ I'm passionate about learning, problem-solving, and creating intuitive user expe
 - 2016: Work & Travel Participant (Ocean City, MD)
 - 2015 - 2024: Private English Tutor
 - 2014: Student at LADO International Institute (Arlington, VA)
-
-## Contacts:
-
-- Telegram: [@ibragimov_esl](https://t.me/ibragimov_esl)
-- E-mail: aslan.ibragimov77@gmail.com
